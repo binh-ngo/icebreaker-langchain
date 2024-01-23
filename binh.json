@@ -1,0 +1,124 @@
+{
+  "public_identifier": "binh-nguyen-ngo",
+  "profile_pic_url": "https://media.licdn.com/dms/image/D5603AQFcVJpQPwjyDg/profile-displayphoto-shrink_400_400/0/1705700486731?e=1711584000&v=beta&t=YUGiE8cI1OvcPeHBYRNA54amjghx4O1aOg2yth-RShI",
+  "background_cover_image_url": null,
+  "first_name": "Binh-Nguyen",
+  "last_name": "Ngo",
+  "full_name": "Binh-Nguyen Ngo",
+  "follower_count": 87,
+  "occupation": "Technical Writer at AWS Tip",
+  "headline": "Full-Stack Developer with an emphasis on AWS, Typescript, Python, and React with the passion and desire to learn more!",
+  "summary": "AWS focused developer interested in building infrastructure as code through CDK for scalable projects and looking for the right employer to expand my skillset. \n\nI'm currently incorporating AWS tools into my project and I'm excited to leverage AI in my work through Bedrock!",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "experiences": [
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 5,
+              "year": 2023
+          },
+          "company": "AWS Tip",
+          "title": "Technical Writer",
+          "location": "Remote"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 4,
+              "year": 2021
+          },
+          "ends_at": {
+              "day": 30,
+              "month": 11,
+              "year": 2021
+          },
+          "company": "Paradise Poke",
+          "title": "Kitchen Manager",
+          "description": "- Managed and trained the kitchen team to be self-sufficient as this was a temporary position.\n- Developed recipes and guidelines to ensure quality and efficient work that are used to this day.\n- Implemented a prep system that lowered food waste by 40%, efficiently utilized cooks during their free time, and rendered a second cook in the afternoon shift to be unnecessary.",
+          "location": "Honolulu, Hawaii, United States · On-site"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 11,
+              "year": 2021
+          },
+          "ends_at": {
+              "day": 30,
+              "month": 11,
+              "year": 2022
+          },
+          "company": "Nami Kaze Hawaii",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/99309161/",
+          "title": "Executive Sous Chef",
+          "description": "- Demonstrated self-starter qualities by revamping an abandoned restaurant and transforming it into a modern sushi bar and restaurant as a founding member of the management team.\n- Fostered the development of the team by demonstrating best practices in order to consistently produce the highest quality product.\n- Maintained a sub 25% food cost on menu items by tracking and analyzing daily sales metrics to more accurately predict required product amount.",
+          "location": "Honolulu, Hawaii, United States · On-site",
+          "logo_url": "https://media.licdn.com/dms/image/D560BAQHl98wsU6a7Eg/company-logo_400_400/0/1705433378896?e=1714003200&v=beta&t=82m-hdgVklQJ4g7qUpmFmq06TdxB3UQ1FpqNxHHU1mk"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 5,
+              "year": 2020
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 3,
+              "year": 2021
+          },
+          "company": "Miro Kaimuki",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/88201412/",
+          "title": "Prep Cook",
+          "description": "- Worked under a sous chef and learned how to efficiently process products that maintained the quality as expected.\n- Took over the responsibilities of a sous chef, trained incoming prep cooks, and provided all the components necessary to successfully run service in the evening.\n- Adapted to many different dining concepts concurrently, showing that I can perform in any situation.",
+          "location": "Honolulu, Hawaii, United States · On-site"
+      }
+  ],
+  "education": [
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 1,
+              "year": 2022
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 12,
+              "year": 2023
+          },
+          "school": "University of Washington",
+          "school_linkedin_profile_url": "https://www.linkedin.com/company/2584/",
+          "description": "Skills: Full-Stack Development · TypeScript · Git · Web Development · Cascading Style Sheets (CSS) · HTML · Front-End Development · MySQL · Node.js · Tailwind CSS · GraphQL · MongoDB · React.js · JavaScript · SQL",
+          "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEMmhF9TqUCgA/company-logo_400_400/0/1630545704089/university_of_washington_logo?e=1714003200&v=beta&t=Y0X8841AdZrOkKLe86_f-s6v-ETTMLpR68itcw3XoKo"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 8,
+              "year": 2018
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 5,
+              "year": 2020
+          },
+          "field_of_study": "Culinary Arts/Chef Training",
+          "degree_name": "Associate of Science - AS",
+          "school": "University of Hawaii at Manoa",
+          "school_linkedin_profile_url": "https://www.linkedin.com/company/5846/",
+          "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFn8IMzrBbFaw/company-logo_400_400/0/1631310715311?e=1714003200&v=beta&t=UGyayhtCJredwNWug1_yHSbzk_ZMBL7tXgkbL5COBGY"
+      }
+  ],
+  "accomplishment_projects": [
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 9,
+              "year": 2023
+          },
+          "title": "stackoverflow-clone",
+          "description": "Q&A website that stores post and user data in a single-table database. Users are able to ask and answer questions utilizing Lexical, a rich-text editor. Try it out!"
+      }
+  ],
+  "connections": 77
+}
