@@ -4,10 +4,10 @@ from typing import List
 
 
 class PersonIntel(BaseModel):
-    summary: str = Field(description="Summary of the person")
-    facts: List[str] = Field(description="Intersting facts about the person")
+    summary: str = Field(description="Summary Of the person")
+    facts: List[str] = Field(description="Facts about the person")
     topics_of_interest: List[str] = Field(
-        description="Topics that may interest the person"
+        description="Topic that may interest the person"
     )
     ice_breakers: List[str] = Field(
         description="Create ice breakers to open a conversation with the person"

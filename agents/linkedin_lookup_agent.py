@@ -36,10 +36,10 @@ def lookup(name: str) -> str:
         template=template, input_variables=["name_of_person"]
     )
 
-    linkedin_profile_url = agent_executor.invoke(
+    linkedin_username = agent_executor.invoke(
         {
-            "input": f"Given this name: {name}, I want you to find the LinkedIn of the person and your answer should contain only the URL of the LinkedIn profile"
+            "input": f"Given this name: {name}, I want you to find the LinkedIn account of the person and your final answer should contain only the URL of the LinkedIn profile. Make sure the format of the url is like this https://www.linkedin.com/in/username"
         }
     )
 
-    return linkedin_profile_url
+    return linkedin_username
